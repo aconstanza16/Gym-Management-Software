@@ -1,0 +1,1 @@
+// React Payments component example
