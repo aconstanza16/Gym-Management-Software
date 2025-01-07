@@ -1,0 +1,16 @@
+
+{
+  "name": "gym-management-software",
+  "version": "1.0.0",
+  "description": "Software de gestión de gimnasios",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.3.3",
+    "jsonwebtoken": "^9.0.0",
+    "pg": "^8.10.0"
+  }
+}
